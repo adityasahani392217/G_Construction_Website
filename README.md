@@ -6,7 +6,18 @@
 
 ## 🏗️ Overview
 
-G Construction is a Mumbai-based RCC structural contracting company specializing in high-rise residential and commercial developments. With a strong foundation built over years of experience, the company delivers projects focused on **quality, safety, and timely execution**.
+This is a **live website developed for a client**, G Construction, a Mumbai-based RCC structural contracting company specializing in high-rise residential and commercial developments.
+
+The project focuses on delivering a **modern, responsive, and performance-optimized web presence** aligned with the company’s expertise in quality construction, safety, and timely execution.
+
+---
+
+## 👨‍💻 My Role
+
+* Designed and developed the complete website
+* Structured content for clarity and business impact
+* Implemented responsive UI for all devices
+* Optimized performance and layout for production use
 
 ---
 
@@ -20,20 +31,20 @@ G Construction is a Mumbai-based RCC structural contracting company specializing
 
 ---
 
-## 🧱 Services
+## 🧱 Services Covered
 
-* **RCC Structural Contracts (Labour + Shuttering)**
-* **High-Rise Residential & Commercial Execution**
-* **Workforce Deployment (Engineers, Supervisors, Skilled Labour)**
-* **Fast-Track Project Execution**
-* **Plant & Equipment for RCC Works**
-* **Site Supervision & Engineering Management**
+* RCC Structural Contracts (Labour + Shuttering)
+* High-Rise Residential & Commercial Execution
+* Workforce Deployment
+* Fast-Track Project Execution
+* Plant & Equipment
+* Site Supervision & Engineering Management
 
 ---
 
 ## 🏢 Featured Projects
 
-### 🏨 IBIS Hotel, Vile Parle (E)
+### IBIS Hotel, Vile Parle (E)
 
 * G+8 Structure (~60,000 sq. ft.)
 * RCC (Labour + Shuttering)
@@ -41,7 +52,7 @@ G Construction is a Mumbai-based RCC structural contracting company specializing
 
 ---
 
-### 🏗️ Veena Smart Homes, Kandivali (W)
+### Veena Smart Homes, Kandivali (W)
 
 * G+24 Residential Tower (~250,000 sq. ft.)
 * RCC Structural Execution
@@ -49,65 +60,54 @@ G Construction is a Mumbai-based RCC structural contracting company specializing
 
 ---
 
-### 🏙️ Paranjape Athena, Bandra (E)
+### Paranjape Athena, Bandra (E)
 
 * G+15 with Tower Parking (~200,000 sq. ft.)
 * Ongoing Project (Since Dec 2023)
 
 ---
 
-## ⚙️ Core Strengths
+## ⚙️ Core Strengths Showcased
 
-* **Safety First Approach**
-* **High-Quality Construction Standards**
-* **On-Time Project Delivery**
-* **Modern Equipment & Technology**
-* **Experienced Workforce & Management**
-* **Strong Industry Reputation**
-
----
-
-## 🔄 Project Execution Process
-
-1. Client Consultation
-2. Site Survey & Preparation
-3. Foundation & Structural Work
-4. Civil & Finishing Work
-5. Quality & Safety Checks
-6. Project Handover
+* Safety-first design approach
+* Clear service presentation
+* Structured project showcase
+* Mobile-responsive layout
+* Professional business branding
 
 ---
 
-## 🤝 Clients
+## 🔄 Project Workflow
 
-Trusted by leading developers and organizations including:
-
-* Veena Developers
-* Paranjape Schemes
-* Sailesh Mahimtura
+1. Requirement Understanding
+2. Content Structuring
+3. UI Design
+4. Development & Responsiveness
+5. Testing & Optimization
+6. Deployment
 
 ---
 
 ## 📍 Location
 
-**Mumbai, Maharashtra, India**
+Mumbai, Maharashtra, India
 
 ---
 
-## 📞 Contact
+## 📞 Contact (Client)
 
-* 📱 Phone: +91 9769761247 / 8169367628
-* 📧 Email: [info@gconstruction.in](mailto:info@gconstruction.in)
+* Phone: +91 9769761247 / 8169367628
+* Email: [info@gconstruction.in](mailto:info@gconstruction.in)
 
 ---
 
 ## ℹ️ Note
 
-This repository is created for **portfolio and presentation purposes only**.
-The source code of the website is **not included**.
+This repository is intended for **portfolio and demonstration purposes only**.
+The **source code is not included** to respect client ownership and confidentiality.
 
 ---
 
 ## ⭐ Acknowledgment
 
-If you find this project useful or informative, feel free to ⭐ the repository.
+If you find this project useful, consider starring the repository.
